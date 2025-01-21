@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sathyasheelans/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sathyasheelans/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -48,4 +49,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sathyasheelans/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sathyasheelans/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sathyasheelans/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sathyasheelans/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
