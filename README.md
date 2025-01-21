@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sathyasheelans/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sathyasheelans/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -35,5 +36,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sathyasheelans/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathyasheelans/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sathyasheelans/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
