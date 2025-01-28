@@ -7,14 +7,11 @@ public:
             if(i<word1.length())
             {
                 merge += word1[i];
-
             }
             if(i<word2.length()){
                 merge += word2[i];
-
             }
             
-
         }
         return merge;
     }
