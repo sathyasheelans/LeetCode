@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/sathyasheelans/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sathyasheelans/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/sathyasheelans/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sathyasheelans/LeetCode/tree/master/0231-power-of-two) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/sathyasheelans/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
