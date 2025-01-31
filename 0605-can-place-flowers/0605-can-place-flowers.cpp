@@ -14,7 +14,7 @@ public:
                     left_empty = false;
                 }
 
-                if(i==(flowerbed.size()-1) || flowerbed[i+1]==0){
+                if(i==flowerbed.size()-1 || flowerbed[i+1]==0){
                     right_empty= true;
                 }
                 else{
